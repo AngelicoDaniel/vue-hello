@@ -8,5 +8,6 @@ var app = new Vue({
     data: {
       messaggio: 'hello',
       image: 'https://picsum.photos/200/300',
+      emptyInput: ''
     }
   });
